@@ -28,7 +28,6 @@ Next.js &nbsp;•&nbsp; TypeScript &nbsp;•&nbsp; Supabase
 
 A full-stack productivity app aimed at helping users manage tasks, track goals, and stay organised. Built with modern web technologies and focused on clean UI and smooth user experience.
 
-> Currently in active development — stay tuned.
 
 ---
 
