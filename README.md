@@ -16,7 +16,13 @@
 
 ## About
 
-Second-year Computer Science student at ELTE Budapest on a full Stipendium Hungaricum Scholarship (CGPA: 4.47 / 5.0). Focused on backend engineering with hands-on experience in Java, Spring Boot, and PostgreSQL from a real-world fintech internship. Currently also serving as a Senior Demonstrator at ELTE, supporting students and faculty alike.
+Final-year Computer Science student at ELTE Budapest on a full Stipendium Hungaricum Scholarship (CGPA: 4.47 / 5.0). Focused on backend engineering with hands-on experience in Java, Spring Boot, and PostgreSQL from a real-world fintech internship. Currently also serving as a Senior Demonstrator at ELTE, supporting students and faculty alike.
+
+---
+
+## Currently Working On
+
+- Developing a **Next.js productivity web application**
 
 ---
 
@@ -72,15 +78,6 @@ Java 17 &nbsp;•&nbsp; Spring Boot &nbsp;•&nbsp; Apache Kafka &nbsp;•&nbsp;
 - Developed 10+ REST APIs improving service performance and scalability
 - Optimised ~15 PostgreSQL queries, reducing average DB response time by 15–20%
 - Integrated Apache Kafka for real-time data streaming and async processing
-
----
-
-## Education
-
-| Degree | Institution | Period |
-|--------|------------|--------|
-| BSc Computer Science — CGPA 4.47 / 5.0 | ELTE, Budapest | 2023 – 2026 |
-| BSc Computer Engineering | Baku Higher Oil School | 2021 – 2023 |
 
 ---
 
