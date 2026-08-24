@@ -68,10 +68,10 @@ A full-stack productivity app aimed at helping users manage tasks, track goals, 
 
 | Role | Company | Period |
 |------|---------|--------|
-| Senior Demonstrator & Teaching Assistant | Eötvös Loránd University | Feb 2026 – Present |
-| Java Backend Developer Intern | Unibank | Jul – Sep 2025 |
-| Product Manager & VP Human Resources | AIESEC in Azerbaijan | Feb – Aug 2023 |
-| Help Desk & Network Administration Intern | SOCAR | May – Jul 2023 |
+| Senior Demonstrator & Teaching Assistant | Eötvös Loránd University | Feb 2026 - Present |
+| Java Backend Developer Intern | Unibank | Jul - Sep 2025 |
+| Product Manager & VP Human Resources | AIESEC in Azerbaijan | Feb - Aug 2023 |
+| Help Desk & Network Administration Intern | SOCAR | May - Jul 2023 |
 
 ---
 
@@ -97,10 +97,6 @@ English (C1) &nbsp;·&nbsp; Azerbaijani (Native) &nbsp;·&nbsp; Turkish (Native)
 
 <div align="center">
 
-![Mirhuseyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Reuszag&show_icons=true&theme=tokyonight&hide_border=true)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Reuszag&layout=compact&theme=tokyonight&hide_border=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=Reuszag&theme=tokyonight&hide_border=true)
 
 </div>
@@ -109,6 +105,6 @@ English (C1) &nbsp;·&nbsp; Azerbaijani (Native) &nbsp;·&nbsp; Turkish (Native)
 
 <div align="center">
 
-*Open to backend engineering internships and junior developer roles — feel free to reach out.*
+*Open to backend engineering internships and junior developer roles - feel free to reach out.*
 
 </div>
