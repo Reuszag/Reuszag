@@ -16,7 +16,7 @@
 
 ## About
 
-Final-year Computer Science student at ELTE Budapest on a full Stipendium Hungaricum Scholarship (CGPA: 4.47 / 5.0). Focused on backend engineering with hands-on experience in Java, Spring Boot, and PostgreSQL from a real-world fintech internship. Currently also serving as a Senior Demonstrator at ELTE, supporting students and faculty alike.
+Computer Science graduate of ELTE Budapest on a full Stipendium Hungaricum Scholarship (CGPA: 4.47 / 5.0). Focused on backend engineering with hands-on experience in Java, Spring Boot, and PostgreSQL from a real-world fintech internship. Currently also serving as a Senior Demonstrator at ELTE, supporting students and faculty alike.
 
 ---
 
