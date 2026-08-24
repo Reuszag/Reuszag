@@ -16,7 +16,7 @@
 
 ## About
 
-Computer Science graduate of ELTE Budapest on a full Stipendium Hungaricum Scholarship (CGPA: 4.47 / 5.0). Focused on backend engineering with hands-on experience in Java, Spring Boot, and PostgreSQL from a real-world fintech internship. Currently also serving as a Senior Demonstrator at ELTE, supporting students and faculty alike.
+Computer Science graduate of ELTE Budapest on a full Stipendium Hungaricum Scholarship (CGPA: 4.53 / 5.0). Focused on backend engineering with hands-on experience in Java, Spring Boot, and PostgreSQL from a real-world fintech internship. Currently also serving as a Senior Demonstrator at ELTE, supporting students and faculty alike.
 
 ---
 
@@ -82,7 +82,7 @@ A full-stack productivity app aimed at helping users manage tasks, track goals, 
 Java 17 &nbsp;•&nbsp; Spring Boot &nbsp;•&nbsp; Apache Kafka &nbsp;•&nbsp; PostgreSQL
 
 - Developed 10+ REST APIs improving service performance and scalability
-- Optimised ~15 PostgreSQL queries, reducing average DB response time by 15–20%
+- Optimised ~15 PostgreSQL queries, reducing average DB response time by 15-20%
 - Integrated Apache Kafka for real-time data streaming and async processing
 
 ---
